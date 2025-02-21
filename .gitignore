@@ -1,0 +1,10 @@
+log.html
+output.xml
+report.html
+output
+playwright-log.txt
+lsp
+browser/*
+results
+*output.xml
+*log*.txt
